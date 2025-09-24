@@ -61,7 +61,7 @@ The device is built around commonly available, low-cost components.
 
 | Component | Purpose | Recommended Part |
 | :--- | :--- | :--- |
-| **Microcontroller** | System brain, BLE communication | ESP32-WROOM DevKit |
+| **Microcontroller** | System brain, BLE communication | ESP32 S3 |
 | **IMU Sensor** | Tilt-compensated compass heading | MPU-6050 + QMC5883L (or BNO055) |
 | **Display** | Proximity, status, and menu info | 0.96" SSD1306 I2C OLED Display |
 | **LED Indicator** | Primary directional interface | 12x or 24x WS2812B Neopixel Ring |
