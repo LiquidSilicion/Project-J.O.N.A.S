@@ -118,7 +118,7 @@ The device is built around commonly available, low-cost components.
 │   │   ├── ble_handler.cpp  *# BLE communication*  
 │   │   ├── imu_handler.cpp  *# Compass & sensors*  
 │   │   ├── ui_handler.cpp   *# LEDs, Display, Buttons*  
-│   │   └── mesh_protocol.cpp*# Packet relaying*  
+│   │   └── mesh_protocol.cpp *# Packet relaying*  
 │   └── **lib/**  
 ├── **hardware/**                *# Design files*  
 │   ├── **schematics/**          *# Circuit diagrams*  
