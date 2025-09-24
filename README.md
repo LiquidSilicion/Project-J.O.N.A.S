@@ -112,3 +112,19 @@ The device is built around commonly available, low-cost components.
 4.  **SOS:** Press/hold SOS button for emergency alert
 
 ## Project Structure
+project-jonas/
+├── firmware/ # Source code
+│ ├── src/
+│ │ ├── main.cpp # Main application
+│ │ ├── ble_handler.cpp # BLE communication
+│ │ ├── imu_handler.cpp # Compass & sensors
+│ │ ├── ui_handler.cpp # LEDs, Display, Buttons
+│ │ └── mesh_protocol.cpp# Packet relaying
+│ └── lib/
+├── hardware/ # Design files
+│ ├── schematics/ # Circuit diagrams
+│ ├── pcb/ # PCB layouts
+├── docs/ # Documentation
+│ ├── protocol_spec.md # Communication protocol
+│ └── algorithm_details.md # Bearing estimation
+└── README.md # This file
