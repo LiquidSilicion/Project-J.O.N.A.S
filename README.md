@@ -1,4 +1,4 @@
-# Project JONAS (Just Off-grid Navigational and Alert System) 🧭✨
+# Project J.O.N.A.S (Just Off-grid Navigational and Alert System) 🧭✨
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32--IDF-green)](https://www.espressif.com/en/products/socs/esp32)
